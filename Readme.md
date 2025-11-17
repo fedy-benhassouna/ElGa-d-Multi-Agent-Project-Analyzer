@@ -43,7 +43,7 @@ Each agent has its own **system message**, optimized for consistent high-quality
 
 ## 🏗️ **Architecture Diagram**
 
-![System Architecture](architecture_diagram.png)
+<img width="2198" height="836" alt="System Architecture" src="https://github.com/user-attachments/assets/adab4da6-5624-4406-aa09-4536e109b6c6" />
 
 *Figure 1: ElGaïd Multi-Agent System Architecture - Sequential workflow with isolated agent conversations*
 
@@ -113,7 +113,7 @@ This pattern is ideal for **production-grade multi-agent systems**.
 ### 1. Clone the project:
 
 ```bash
-git clone https://github.com/your-username/elkaid-multiagent.git
+git clone https://github.com/fedy-benhassouna/ElGa-d-Multi-Agent-Project-Analyzer.git
 cd elkaid-multiagent
 ```
 
@@ -137,15 +137,15 @@ streamlit run app.py
 
 The following image shows an example of the input form with project details:
 
-![Input Data Example](demo_input.png)
-
+<img width="1679" height="794" alt="Input Data Example" src="https://github.com/user-attachments/assets/e5a45aed-89be-49af-9cce-9a47912bf0b6" />
 *Figure 2: Example input form showing project details (name, description, type, timeline, budget, etc.)*
 
 ## Results Video
 
 Watch the video below to see ElGaïd in action, demonstrating the complete multi-agent analysis workflow and results:
 
-https://github.com/user-attachments/assets/demo_results.mp4
+
+https://github.com/user-attachments/assets/871c5e5b-e634-4a01-90ec-f708ec1ebb71
 
 *Video: Complete demonstration of ElGaïd multi-agent system analyzing a project and generating comprehensive outputs*
 
@@ -234,4 +234,5 @@ Streamlit tabs organize results:
 * Client Success Strategy
 
 Each tab displays the stored response for readability.
+
 
